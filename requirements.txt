@@ -71,7 +71,6 @@ matplotlib-inline==0.1.7
 mdurl==0.1.2
 mediapipe==0.10.21
 mistune==3.1.4
-ml-dtypes==0.3.2
 namex==0.1.0
 nbclient==0.10.2
 nbconvert==7.16.6
